@@ -1,0 +1,8 @@
+{
+  "name": "CloudFile Pro",
+  "description": "A comprehensive end-to-end file conversion and management platform with advanced AI-powered document processing features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
